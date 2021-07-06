@@ -16,10 +16,6 @@ Task:
 10. Print skills one by one and how many each repeated and order the output to find out the most important skills required?
 11. Factorize the YearsExp feature and convert it to numbers in new col. (Bounce )
 12. Apply K-means for job title and companies (Bounce )
-Team: 
-Group of three students.
-Deliverables: 
-• Each team must share with us a git hub link for a maven EE application.
-• Each team must be ready to present his work on 6th of July
+
 Wuzzuf jobs in Egypt data set at Kaggle
 https://www.kaggle.com/omarhanyy/wuzzuf-jobs
