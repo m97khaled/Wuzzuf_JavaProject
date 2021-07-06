@@ -2,8 +2,11 @@
 Final ITI Java Project
 
 Task: 
+
 • Build all java needed classes (POJO , DAO, web service and a tester client for the web service)
+
 • Make a web service to get the following from the data set:
+
 1. Read data set and convert it to dataframe or Spark RDD and display some from it.
 2. Display structure and summary of the data.
 3. Clean the data (null, duplications)
